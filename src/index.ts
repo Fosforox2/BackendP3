@@ -44,12 +44,5 @@ api usada https://openlibrary.org/isbn/
   "ISBN": "978-8484317227"
 }
 
-{
-  "title": "Maus",
-  "authors": "Art Spiegelman",
-  "year": 1991,
-  "ISBN": "978-0-39474-839-5",
-  "publisher": "Pantheon Books"
-}
 
 */ 
